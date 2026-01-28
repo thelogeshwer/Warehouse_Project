@@ -13,4 +13,4 @@ Tech Stack:
 - Spring Boot
 - Spring Security
 - JWT
-- MySQL (or H2)
+- H2 Database
