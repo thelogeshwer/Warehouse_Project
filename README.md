@@ -95,7 +95,7 @@ Client → Secured REST APIs → Warehouse Resources.
    - API runs on: http://localhost:8080
    - H2 Console: http://localhost:8080/h2-console
 
-
+--- 
 
 👤 Author
 
